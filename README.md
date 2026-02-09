@@ -42,7 +42,6 @@ Projeto acadêmico focado em agronegócio, onde desenvolvi desde o protótipo UX
 ---
 
 ## 📊 Estatísticas
-## 📊 Estatísticas
 
 ![Estatísticas do Lucas](https://github-readme-stats.vercel.app/api?username=LucasCobraFatec&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
 
