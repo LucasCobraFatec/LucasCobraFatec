@@ -42,8 +42,8 @@ Projeto acadêmico focado em agronegócio, onde desenvolvi desde o protótipo UX
 ---
 
 ## 📊 Estatísticas
-![Estatísticas do Lucas](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=dark)
+![Estatísticas do Lucas](https://github-readme-stats.vercel.app/api?username=lucas-cobra&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-cobra&layout=compact&theme=dark)
 
 ---
 
