@@ -42,8 +42,11 @@ Projeto acadêmico focado em agronegócio, onde desenvolvi desde o protótipo UX
 ---
 
 ## 📊 Estatísticas
-[![LucasCobraFatec](https://github-readme-stats.vercel.app/api?username=LucascobraFatec)](https://github.com/anuraghazra/github-readme-stats)
+## 📊 Estatísticas
 
+![Estatísticas do Lucas](https://github-readme-stats.vercel.app/api?username=LucasCobraFatec&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasCobraFatec&layout=compact&theme=dark)
 
 ---
 
