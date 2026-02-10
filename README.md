@@ -52,7 +52,7 @@ Projeto acadêmico focado em agronegócio com foco em UX/UX moderno.
 
 ## 📊 Estatísticas
 
-![Estatísticas do Lucas](https://github-readme-stats.vercel.app/api?username=LucasCobraFatec&show_icons=true&theme=dark)
+![Estatísticas do Lucas](https://github-readme-stats.vercel.app/api?username=LucasCobraFatec&show_icons=true&theme=dark&hide_border=true&count_private=true)
 
 ![Status de Contribuições](https://github-readme-streak-stats.herokuapp.com/?user=LucasCobraFatec&theme=dark)
 
