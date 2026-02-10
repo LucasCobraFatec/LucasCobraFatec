@@ -50,8 +50,6 @@ Projeto acadêmico focado em agronegócio com foco em UX/UX moderno.
 
 ---
 
-## 📊 Estatísticas
-
 
 ![Contribuições](https://img.shields.io/badge/Contribuições-GitHub-brightgreen?style=for-the-badge)
 
