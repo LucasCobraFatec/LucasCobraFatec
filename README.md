@@ -7,10 +7,11 @@ Trabalho há mais de 14 anos transformando problemas complexos de infraestrutura
 ---
 
 ## 🚀 Sobre Mim
-- 🎓 Cursando **Desenvolvimento de Sistemas Multiplataforma** na FATEC Jacareí.
-- 🎨 Graduado em **Design Gráfico** pela UNIP.
-- 🛠️ Atualmente atuando como **Analista de Suporte (N2/N3)** na Sonda.
-- 💡 Apaixonado por UX/UI, jogos de tabuleiro e a intersecção entre arte e tecnologia.
+
+- 🎓 Cursando **Desenvolvimento de Sistemas Multiplataforma** na FATEC Jacareí
+- 🎨 Graduado em **Design Gráfico** pela UNIP
+- 🛠️ Atualmente atuando como **Analista de Suporte (N2/N3)** na Sonda
+- 💡 Apaixonado por UX/UI, jogos de tabuleiro e a intersecção entre arte e tecnologia
 
 ---
 
@@ -20,7 +21,11 @@ Trabalho há mais de 14 anos transformando problemas complexos de infraestrutura
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 ### 🎨 Design & Prototipagem
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
@@ -31,13 +36,17 @@ Trabalho há mais de 14 anos transformando problemas complexos de infraestrutura
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Scrum](https://img.shields.io/badge/scrum-%231C1C1C.svg?style=for-the-badge)
+![UML](https://img.shields.io/badge/UML-%23000000.svg?style=for-the-badge&logo=umbraco&logoColor=white)
 
 ---
 
 ## 📂 Projetos em Destaque
-### [Portal AgriRSLab]
-Projeto acadêmico focado em agronegócio, onde desenvolvi desde o protótipo UX/UI no Figma até a implementação do Front-end responsivo.
-- **Tech Stack:** HTML, CSS, JavaScript, Figma, UML.
+
+### 🌾 [Portal AgriRSLab](https://github.com/NightHawksDevelopers/ABP-1)
+Projeto acadêmico focado em agronegócio com foco em UX/UX moderno.
+- **Descrição:** Desenvolvi desde o protótipo UX/UI no Figma até a implementação do Front-end responsivo
+- **Tech Stack:** HTML5 • CSS3 • JavaScript • Figma • UML
+- **Status:** [ Finalizado]
 
 ---
 
@@ -50,4 +59,6 @@ Projeto acadêmico focado em agronegócio, onde desenvolvi desde o protótipo UX
 ---
 
 ## 📫 Vamos nos conectar?
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/lucascobra)
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucascobra)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LucasCobraFatec)
