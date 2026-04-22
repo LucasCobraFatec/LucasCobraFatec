@@ -42,11 +42,19 @@ Trabalho há mais de 14 anos transformando problemas complexos de infraestrutura
 
 ## 📂 Projetos em Destaque
 
-### 🌾 [Portal AgriRSLab](https://github.com/NightHawksDevelopers/ABP-1)
-Projeto acadêmico focado em agronegócio com foco em UX/UX moderno.
-- **Descrição:** Desenvolvi desde o protótipo UX/UI no Figma até a implementação do Front-end responsivo
-- **Tech Stack:** HTML5 • CSS3 • JavaScript • Figma • UML
-- **Status:** [ Finalizado]
+| Projeto | Descrição | Stack |
+| :--- | :--- | :--- |
+| [AgriRSLab](https://github.com/LucasCobraFatec/ABP-1) | Portal institucional para laboratório do INPE com foco em UX/UI. | HTML, CSS, JS, Figma |
+| [TaskMaster Pro](https://github.com/LucasCobraFatec/taskmaster-pro) | Gerenciador de tarefas com foco em produtividade e organização. | React, JS |
+| [React API REST](https://github.com/LucasCobraFatec/React_API_REST) | Consumo de APIs REST para integração de dados em tempo real. | React, Axios |
+| [DevWeb MegaSena](https://github.com/LucasCobraFatec/DevWeb-2-megasena) | Aplicativo de geração e conferência de jogos da MegaSena. | JavaScript |
+| [Biblioteca Pessoal](https://github.com/LucasCobraFatec/BibliotecaPessoal) | Sistema de organização e catálogo de acervo literário. | SQL, Web |
+| [Desafios Python](https://github.com/LucasCobraFatec/DesafiosdePy) | Coletânea de algoritmos e exercícios de lógica aplicada. | Python |
+
+---
+
+### 🚧 Em Desenvolvimento
+- **[Projeto ChatBot](https://github.com/seliganessesdevs/ABP---2DSM-2026)**: Atuando como **Scrum Master**, liderando a organização de sprints e documentação técnica para entrega ágil.
 
 ---
 
