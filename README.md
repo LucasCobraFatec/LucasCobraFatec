@@ -49,7 +49,7 @@ Trabalho há mais de 14 anos transformando problemas complexos de infraestrutura
 ---
 
 ### 🚧 Em Desenvolvimento
-- [cite_start]**[Projeto ChatBot](https://github.com/seliganessesdevs/ABP---2DSM-2026)**: Atuando como **Scrum Master** e **Desenvolvedor Full Stack**, liderando a orquestração de ambientes Docker e segurança da API. [cite: 55, 101]
+**[Projeto ChatBot](https://github.com/seliganessesdevs/ABP---2DSM-2026)**: Atuando como **Scrum Master** e **Desenvolvedor Full Stack**, liderando a orquestração de ambientes Docker e segurança da API.
 
 ---
 
