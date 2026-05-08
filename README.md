@@ -8,9 +8,9 @@ Trabalho há mais de 14 anos transformando problemas complexos de infraestrutura
 
 ## 🚀 Sobre Mim
 
-- [cite_start]🎓 Cursando **Desenvolvimento de Sistemas Multiplataforma** na FATEC Jacareí [cite: 38]
-- [cite_start]🎨 Graduado em **Design Gráfico** pela UNIP [cite: 40]
-- [cite_start]🛠️ Atualmente atuando como **Analista de Suporte (N2/N3)** na Sonda [cite: 32]
+- 🎓 Cursando **Desenvolvimento de Sistemas Multiplataforma** na FATEC Jacareí 
+- 🎨 Graduado em **Design Gráfico** pela UNIP [cite: 40]
+- 🛠️ Atualmente atuando como **Analista de Suporte (N2)** na Sonda
 - 💡 Apaixonado por IA, Visão Computacional, UX/UI e a intersecção entre dados e tecnologia.
 
 ---
