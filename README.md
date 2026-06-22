@@ -8,9 +8,9 @@ Trabalho há mais de 14 anos transformando problemas complexos de infraestrutura
 
 ## 🚀 Sobre Mim
 
-- 🎓 Cursando **Desenvolvimento de Sistemas Multiplataforma** na FATEC Jacareí 
-- 🎨 Graduado em **Design Gráfico** pela UNIP [cite: 40]
-- 🛠️ Atualmente atuando como **Analista de Suporte (N2)** na Sonda
+- 🎓 Cursando **Desenvolvimento de Sistemas Multiplataforma** na FATEC Jacareí  
+- 🎨 Graduado em **Design Gráfico** pela UNIP  
+- 🛠️ Atualmente atuando como **Analista de Suporte (N2)** na Sonda  
 - 💡 Apaixonado por IA, Visão Computacional, UX/UI e a intersecção entre dados e tecnologia.
 
 ---
@@ -31,34 +31,10 @@ Trabalho há mais de 14 anos transformando problemas complexos de infraestrutura
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 🎨 Design & Prototipagem
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-
----
-
-## 📂 Projetos em Destaque
-
-| Projeto | Descrição | Stack |
-| :--- | :--- | :--- |
-| [Vision Monitoring](https://github.com/LucasCobraFatec/vision-monitoring-opencv) | **Destaque:** Monitoramento e detecção facial em tempo real com processamento de imagem. | Python, OpenCV, NumPy |
-| [AgriRSLab](https://github.com/LucasCobraFatec/ABP-1) | [cite_start]Portal institucional para laboratório do INPE com foco em UX/UI e responsividade. [cite: 59] | React, TypeScript, Figma |
-| [TaskMaster Pro](https://github.com/LucasCobraFatec/taskmaster-pro) | [cite_start]Gerenciador de tarefas declarativo com foco em performance e UI moderna. [cite: 188] | React, Chakra UI v3 |
-| [MegaSena Resultados](https://github.com/LucasCobraFatec/Mega-Sena-Resultados) | [cite_start]Pipeline de automação para ingestão e análise de dados históricos em larga escala. [cite: 104] | Node.js, PostgreSQL |
-
----
-
-### 🚧 Em Desenvolvimento
-**[Projeto ChatBot](https://github.com/seliganessesdevs/ABP---2DSM-2026)**: Atuando como **Scrum Master** e **Desenvolvedor Full Stack**, liderando a orquestração de ambientes Docker e segurança da API.
-
----
-
-## 📊 Estatísticas
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LucasCobraFatec&theme=dark)
-
----
-
-## 📫 Vamos nos conectar?
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucascobra)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LucasCobraFatec)
+### 🛡️ Segurança, Testes & Infraestrutura
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
+![Vitest](https://img.shields.io/badge/-Vitest-33a92b?style=for-the-badge&logo=Vitest&logoColor=white)
+![Testing Library](https://img.shields.io/badge/-Testing%20Library-%23E33332?style=for-the-badge&logo=Testing%20Library&logoColor=white)
+![ESLint](https://img
