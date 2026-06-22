@@ -44,6 +44,7 @@ Trabalho há mais de 14 anos transformando problemas complexos de infraestrutura
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
+
 ---
 
 ## 📂 Projetos em Destaque
