@@ -51,6 +51,11 @@ Trabalho há mais de 14 anos transformando problemas complexos de infraestrutura
 
 | Projeto | Descrição | Stack |
 | :--- | :--- | :--- |
+## 📂 Projetos em Destaque
+
+| Projeto | Descrição | Stack |
+| :--- | :--- | :--- |
+| [AtendMeBem](https://github.com/LucasCobraFatec/Projeto_AtendMeBem) (em andamento)| Arquitetura em microsserviços para gestão de atendimentos com pipeline de CI via GitHub Actions e Prisma ORM. | Node.js, TypeScript, Prisma, GitHub Actions |
 | [FATECBOT-ABP](https://github.com/seliganessesdevs012/FATECBOT-ABP) | **Liderança:** Atuação como Scrum Master e Dev Full Stack. Orquestração de ambientes Docker, segurança e criação de ChatBot institucional. | TypeScript, React, Docker, JWT + Argon2id |
 | [Vision Monitoring](https://github.com/LucasCobraFatec/vision-monitoring-opencv) | Monitoramento e detecção facial em tempo real com processamento de imagem avançado. | Python, OpenCV, NumPy |
 | [Sintax-Analyzer](https://github.com/GianlucaAlves/Sintax-Analyzer) | Analisador sintático robusto desenvolvido para validação e processamento de estruturas léxicas. | TypeScript, Node.js, Vitest |
@@ -58,6 +63,8 @@ Trabalho há mais de 14 anos transformando problemas complexos de infraestrutura
 | [AgriRSLab](https://github.com/LucasCobraFatec/ABP-1) | Portal institucional para laboratório do INPE com foco em UX/UI e responsividade aplicada. | React, TypeScript, Figma |
 | [TaskMaster Pro](https://github.com/LucasCobraFatec/taskmaster-pro) | Gerenciador de tarefas declarativo com foco em performance e UI moderna. | React, Chakra UI v3, Prisma |
 | [MegaSena Resultados](https://github.com/LucasCobraFatec/Mega-Sena-Resultados) | Pipeline de automação para ingestão e análise de dados históricos em larga escala. | Node.js, PostgreSQL |
+
+---
 
 ---
 
